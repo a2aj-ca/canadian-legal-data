@@ -79,7 +79,12 @@ Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
 ## Overview
 
-This repository provides tools and documentation for accessing Canadian legal data through multiple opena access / open source channels. The A2AJ Canadian Legal Data project offers access to Canadian court/triunbal decisions, legislation, and regulations through various interfaces designed for different use cases.
+This repository provides tools and documentation for accessing Canadian legal data through multiple open access / open source 
+channels. The project builds on an earlier [version](https://huggingface.co/datasets/refugee-law-lab/canadian-legal-data) that 
+was maintained by the [Refugee Law Lab (RLL)](https://refugeelab.ca/) and is now maintained by [A2AJ](https://a2aj.ca/), a 
+research project co-hosted by York University's Osgoode Hall Law School and Toronto Metropolitan University's Lincoln Alexander 
+School of Law. The data is intended to support empirical legal research, legal-tech prototyping, and language-model 
+pre-training in the public interest—especially work that advances access to justice for marginalised and low-income communities.
 
 ## Data Access Methods
 
