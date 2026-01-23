@@ -31,7 +31,8 @@ def generate_readme():
     laws_data = get_api_coverage("laws")
     
     # Dataset ordering for cases (matches original script)
-    case_order = ["SCC", "FCA", "ONCA", "FC", "TCC", "CMAC", "SST", "RAD", "RPD", "RLLR", "CHRT"]
+    case_order = ["SCC", "FCA", "FC", "TCC", "CMAC", "SST", "RAD", "RPD", "RLLR", "CHRT",
+                  "BCCA", "BCSC", "ONCA", "YKCA"]
     
     # Dataset ordering for laws
     law_order = ["LEGISLATION-FED", "REGULATIONS-FED"]
