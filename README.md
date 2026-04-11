@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-01-23
+Last updated: 2026-04-11
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -38,31 +38,40 @@ pre-training in the public interest—especially work that advances access to ju
 
 ## Dataset Coverage
 
-### Court Decisions (184,044 cases)
+### Court Decisions (209,242 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
-| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2025-12-19 | 10,862 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-01-19 | 7,674 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-01-21 | 34,962 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-01-15 | 7,994 |
-| CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-01-15 | 151 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2025-12-18 | 17,131 |
-| RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-05 | 14,108 |
+| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-04-10 | 10,871 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-04-02 | 7,732 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-04-10 | 35,322 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-04-09 | 8,035 |
+| CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-03-25 | 152 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-03-25 | 17,577 |
+| RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-11 | 14,122 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2025-12-15 | 1,096 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-01-21 | 14,348 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-01-21 | 50,476 |
-| ONCA   | Ontario Court of Appeal                  | 2007-01-02 – 2026-01-21 | 17,318 |
-| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2025-09-29 | 268 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-03-10 | 1,119 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-04-10 | 14,454 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-04-09 | 50,835 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-04-10 | 23,743 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-04-08 | 4,708 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-04-08 | 9,086 |
+| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-03-09 | 1,590 |
+| NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
+| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
+| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-01-19 | 269 |
 
-### Federal Legislation & Regulations (5,788 documents)
+### Legislation & Regulations (10,838 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2025-06-26 | 954 |
-| REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2025-12-17 | 4,834 |
+| REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-03-13 | 4,845 |
+| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-03-12 | 585 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,408 |
+| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-04-01 | 854 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-03-31 | 2,192 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
@@ -84,7 +93,7 @@ pre-training in the public interest—especially work that advances access to ju
 ### Legislation & Regulations
 | Field | Type | Description |
 |-------|------|-------------|
-| dataset | string | LEGISLATION-FED or REGULATIONS-FED |
+| dataset | string | LEGISLATION-FED, REGULATIONS-ON |
 | citation_en / citation_fr | string | Official citation |
 | name_en / name_fr | string | Full title |
 | document_date_en / document_date_fr | datetime | Enactment/publication date |
@@ -142,4 +151,4 @@ This research output is supported in part by funding from the **Law Foundation o
 
 ## Citation
 
-> Sean Rehaag & Simon Wallace, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data).
+> Sean Rehaag & Simon Wallace, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data) (updated 2026).

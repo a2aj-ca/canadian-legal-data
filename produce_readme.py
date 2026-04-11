@@ -32,10 +32,12 @@ def generate_readme():
     
     # Dataset ordering for cases (matches original script)
     case_order = ["SCC", "FCA", "FC", "TCC", "CMAC", "SST", "RAD", "RPD", "RLLR", "CHRT",
-                  "BCCA", "BCSC", "ONCA", "YKCA"]
+                  "BCCA", "BCSC", "ONCA", "NSCA", "NSSC", "NSPC", "NSFC", "NSSM", "YKCA"]
     
     # Dataset ordering for laws
-    law_order = ["LEGISLATION-FED", "REGULATIONS-FED"]
+    law_order = ["LEGISLATION-FED", "REGULATIONS-FED", "LEGISLATION-BC",
+                 "REGULATIONS-BC", "LEGISLATION-ON", "REGULATIONS-ON",
+                ]
     
     today = datetime.now().strftime("%Y-%m-%d")
     
@@ -122,7 +124,7 @@ pre-training in the public interest—especially work that advances access to ju
         readme_content += row + "\n"
     
     readme_content += f"""
-### Federal Legislation & Regulations ({total_laws:,} documents)
+### Legislation & Regulations ({total_laws:,} documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
@@ -152,7 +154,7 @@ pre-training in the public interest—especially work that advances access to ju
 ### Legislation & Regulations
 | Field | Type | Description |
 |-------|------|-------------|
-| dataset | string | LEGISLATION-FED or REGULATIONS-FED |
+| dataset | string | LEGISLATION-FED, REGULATIONS-ON |
 | citation_en / citation_fr | string | Official citation |
 | name_en / name_fr | string | Full title |
 | document_date_en / document_date_fr | datetime | Enactment/publication date |
@@ -210,7 +212,7 @@ This research output is supported in part by funding from the **Law Foundation o
 
 ## Citation
 
-> Sean Rehaag & Simon Wallace, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data).
+> Sean Rehaag & Simon Wallace, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data) (updated 2026).
 """
     
     # Write README file
