@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-04-11
+Last updated: 2026-04-25
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -38,40 +38,40 @@ pre-training in the public interest—especially work that advances access to ju
 
 ## Dataset Coverage
 
-### Court Decisions (209,242 cases)
+### Court Decisions (209,540 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
-| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-04-10 | 10,871 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-04-02 | 7,732 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-04-10 | 35,322 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-04-09 | 8,035 |
+| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-04-24 | 10,874 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-04-23 | 7,742 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-04-24 | 35,384 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-04-15 | 8,042 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-03-25 | 152 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-03-25 | 17,577 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-03-27 | 17,622 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-11 | 14,122 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-03-10 | 1,119 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-04-10 | 14,454 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-04-09 | 50,835 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-04-10 | 23,743 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-04-08 | 4,708 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-04-08 | 9,086 |
-| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-03-09 | 1,590 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-09 | 1,123 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-04-24 | 14,479 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-04-23 | 50,919 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-04-24 | 23,772 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-04-21 | 4,713 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-04-24 | 9,107 |
+| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-04-24 | 1,593 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-01-19 | 269 |
 
-### Legislation & Regulations (10,838 documents)
+### Legislation & Regulations (10,843 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2025-06-26 | 954 |
 | REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-03-13 | 4,845 |
 | LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-03-12 | 585 |
-| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,408 |
-| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-04-01 | 854 |
-| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-03-31 | 2,192 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,418 |
+| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-04-15 | 852 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-04-17 | 2,189 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
