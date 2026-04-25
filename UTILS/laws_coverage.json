@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "dataset": "LEGISLATION-FED",
+      "description_en": "Federal Statutes",
+      "description_fr": "Lois fédérales",
+      "earliest_document_date": "1870-05-12",
+      "latest_document_date": "2025-06-26",
+      "number_of_documents": 954
+    },
+    {
+      "dataset": "REGULATIONS-FED",
+      "description_en": "Federal Regulations",
+      "description_fr": "Règlements fédéraux",
+      "earliest_document_date": "1945-12-21",
+      "latest_document_date": "2026-03-13",
+      "number_of_documents": 4845
+    },
+    {
+      "dataset": "LEGISLATION-ON",
+      "description_en": "Ontario Legislation",
+      "description_fr": "Législation de l'Ontario",
+      "earliest_document_date": "1986-07-28",
+      "latest_document_date": "2026-04-15",
+      "number_of_documents": 852
+    },
+    {
+      "dataset": "REGULATIONS-ON",
+      "description_en": "Ontario Regulations",
+      "description_fr": "Règlements de l'Ontario",
+      "earliest_document_date": "1990-12-31",
+      "latest_document_date": "2026-04-21",
+      "number_of_documents": 2190
+    },
+    {
+      "dataset": "LEGISLATION-BC",
+      "description_en": "British Columbia Legislation",
+      "description_fr": "Législation de la Colombie-Britannique",
+      "earliest_document_date": "1924-12-19",
+      "latest_document_date": "2026-03-12",
+      "number_of_documents": 584
+    },
+    {
+      "dataset": "REGULATIONS-BC",
+      "description_en": "British Columbia Regulations",
+      "description_fr": "Règlements de la Colombie-Britannique",
+      "earliest_document_date": "1975-04-22",
+      "latest_document_date": "2026-03-18",
+      "number_of_documents": 1425
+    }
+  ]
+}
