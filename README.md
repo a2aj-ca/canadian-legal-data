@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-04-25
+Last updated: 2026-04-26
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
