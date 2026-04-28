@@ -1,0 +1,31 @@
+{
+  "cases_search_boosting": {
+    "SCC": 100,
+    "FCA": 50,
+    "CMAC": 50,
+    "FC": 25,
+    "TCC": 25,
+    "RAD": 10,
+    "RPD": 1,
+    "RLLR": 1,
+    "SST": 1,
+    "CHRT": 1,
+    "BCCA": 50,
+    "BCSC": 25,
+    "NSCA": 50,
+    "NSSC": 25,
+    "NSFC": 25,
+    "NSPC": 10,
+    "NSSM": 5,
+    "ONCA": 50,
+    "YKCA": 50
+  },
+  "laws_search_boosting": {
+    "LEGISLATION-FED": 50,
+    "REGULATIONS-FED": 25,
+    "LEGISLATION-ON": 50,
+    "REGULATIONS-ON": 25,
+    "LEGISLATION-BC": 50,
+    "REGULATIONS-BC": 25
+  }
+}
