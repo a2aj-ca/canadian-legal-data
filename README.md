@@ -62,16 +62,16 @@ pre-training in the public interest—especially work that advances access to ju
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-04-10 | 274 |
 
-### Legislation & Regulations (10,850 documents)
+### Legislation & Regulations (10,848 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2025-06-26 | 954 |
 | REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-03-13 | 4,845 |
-| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-03-12 | 584 |
-| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,425 |
-| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-04-15 | 852 |
-| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-04-21 | 2,190 |
+| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-04-16 | 584 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,423 |
+| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-04-24 | 853 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-04-30 | 2,189 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
