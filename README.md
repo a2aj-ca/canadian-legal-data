@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-04-26
+Last updated: 2026-05-03
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -38,29 +38,29 @@ pre-training in the public interest—especially work that advances access to ju
 
 ## Dataset Coverage
 
-### Court Decisions (209,540 cases)
+### Court Decisions (209,690 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
-| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-04-24 | 10,874 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-04-23 | 7,742 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-04-24 | 35,384 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-04-15 | 8,042 |
-| CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-03-25 | 152 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-03-27 | 17,622 |
+| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-05-01 | 10,876 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-01 | 7,744 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-05-01 | 35,418 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-04-28 | 8,043 |
+| CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-04-27 | 153 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-03-27 | 17,649 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-11 | 14,122 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-09 | 1,123 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-04-24 | 14,479 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-04-23 | 50,919 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-04-24 | 23,772 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-04-21 | 4,713 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-04-24 | 9,107 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-09 | 1,125 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-01 | 14,491 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-04-30 | 50,956 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-01 | 23,787 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-04-30 | 4,714 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-01 | 9,118 |
 | NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-04-24 | 1,593 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
-| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-01-19 | 269 |
+| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-04-10 | 274 |
 
 ### Legislation & Regulations (10,850 documents)
 
