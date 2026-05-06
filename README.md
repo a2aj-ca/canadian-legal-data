@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-05-03
+Last updated: 2026-05-06
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -107,6 +107,7 @@ pre-training in the public interest—especially work that advances access to ju
 1. **For API access**: Review `access-via-api.ipynb` for examples of searching and retrieving specific documents
 2. **For bulk analysis**: Use `access-via-hugging-face.ipynb` or `access-via-parquet.ipynb` depending on your needs
 3. **For AI integration**: See `access-via-mcp.ipynb` for connecting AI assistants to the legal data
+4. **To host your own API/MCP server**: See [a2aj-api-public](https://github.com/a2aj-ca/a2aj-api-public) for open source code and deployment instructions
 
 ## Data Quality & Limitations
 
