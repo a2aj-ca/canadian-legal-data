@@ -1,82 +1,67 @@
 # A2AJ Canadian Legal Data
-
-Last updated: 2026-05-06
-
+Last updated: 2026-05-07
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
-
 ## Overview
-
 This repository provides tools and documentation for accessing Canadian legal data through multiple open access / open source 
 channels. The project builds on an earlier [version](https://huggingface.co/datasets/refugee-law-lab/canadian-legal-data) that 
 was maintained by the [Refugee Law Lab (RLL)](https://refugeelab.ca/) and is now maintained by [A2AJ](https://a2aj.ca/), a 
 research project co-hosted by York University's Osgoode Hall Law School and Toronto Metropolitan University's Lincoln Alexander 
 School of Law. The data is intended to support empirical legal research, legal-tech prototyping, and language-model 
 pre-training in the public interest—especially work that advances access to justice for marginalised and low-income communities.
-
 ## Data Access Methods
-
 ### 1. API Access
 - **Best for**: Searching specific cases or laws, programmatic queries, real-time access
 - **Endpoint**: https://api.a2aj.ca/
 - **Documentation**: https://api.a2aj.ca/docs
 - **Examples**: See `access-via-api.ipynb`
-
 ### 2. Hugging Face Datasets
 - **Best for**: Machine learning, bulk analysis, academic research
 - **Case Law Dataset**: https://huggingface.co/datasets/a2aj/canadian-case-law
 - **Laws Dataset**: https://huggingface.co/datasets/a2aj/canadian-laws
 - **Examples**: See `access-via-hugging-face.ipynb`
-
 ### 3. Direct Parquet Downloads
 - **Best for**: Simple bulk downloads, minimal dependencies
 - **Examples**: See `access-via-parquet.ipynb`
-
 ### 4. Model Context Protocol (MCP)
 - **Best for**: AI agent integration, conversational interfaces
 - **Server**: https://api.a2aj.ca/mcp
 - **Examples**: See `access-via-mcp.ipynb`
-
 ## Dataset Coverage
-
-### Court Decisions (209,690 cases)
-
+### Court Decisions (210,512 cases)
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-05-01 | 10,876 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-01 | 7,744 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-05-01 | 35,418 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-04-28 | 8,043 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-05 | 7,745 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-06 | 14,523 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-06 | 23,801 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-05-05 | 4,715 |
+| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-04-27 | 275 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-05-06 | 35,440 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-05-01 | 8,044 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-04-27 | 153 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-03-27 | 17,649 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-05-05 | 51,685 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-05 | 9,127 |
+| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-05-06 | 1,594 |
+| NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
+| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-04-15 | 17,657 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-11 | 14,122 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-09 | 1,125 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-01 | 14,491 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-04-30 | 50,956 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-01 | 23,787 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-04-30 | 4,714 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-01 | 9,118 |
-| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-04-24 | 1,593 |
-| NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
-| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
-| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-04-10 | 274 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-23 | 1,128 |
 
 ### Legislation & Regulations (10,848 documents)
-
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2025-06-26 | 954 |
 | REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-03-13 | 4,845 |
-| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-04-16 | 584 |
-| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,423 |
 | LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-04-24 | 853 |
 | REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-04-30 | 2,189 |
+| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-04-16 | 584 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,423 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
-
 ## Data Fields
-
 ### Case Law
 | Field | Type | Description |
 |-------|------|-------------|
@@ -89,7 +74,6 @@ pre-training in the public interest—especially work that advances access to ju
 | scraped_timestamp_en / scraped_timestamp_fr | datetime | Scraping timestamp |
 | unofficial_text_en / unofficial_text_fr | string | Full text |
 | upstream_license | string | Source license terms |
-
 ### Legislation & Regulations
 | Field | Type | Description |
 |-------|------|-------------|
@@ -101,55 +85,34 @@ pre-training in the public interest—especially work that advances access to ju
 | scraped_timestamp_en / scraped_timestamp_fr | datetime | Scraping timestamp |
 | unofficial_text_en / unofficial_text_fr | string | Full text |
 | upstream_license | string | Source license terms |
-
 ## Getting Started
-
 1. **For API access**: Review `access-via-api.ipynb` for examples of searching and retrieving specific documents
 2. **For bulk analysis**: Use `access-via-hugging-face.ipynb` or `access-via-parquet.ipynb` depending on your needs
 3. **For AI integration**: See `access-via-mcp.ipynb` for connecting AI assistants to the legal data
 4. **To host your own API/MCP server**: See [a2aj-api-public](https://github.com/a2aj-ca/a2aj-api-public) for open source code and deployment instructions
-
 ## Data Quality & Limitations
-
 - **Unofficial Copies**: All texts are unofficial; consult source URLs for authoritative versions
 - **Coverage Gaps**: Gaps exist for some courts/tribunals; not all decisions are published on court/tribunal websites
 - **Processing**: Automated scraping may introduce formatting artifacts
 - **Updates**: Data is updated regularly but not in real-time
-
 ## Privacy & Ethical Considerations
-
 Court decisions contain sensitive personal information. While all documents are public, bulk access increases privacy risks, particularly for marginalized communities. Users should:
-
 - Comply with applicable privacy laws
 - Respect publication bans and court orders
 - Consider community impact when developing derivative tools
 - Collaborate with community and legal aid organizations where appropriate
-
 ## Warranties / Representations
-
 While we make best efforts to ensure the completeness and accuracy of our datasets, we provide no warranties regarding completeness or accuracy. The data were collected through automated processes and may contain errors. Always verify documents against the official source.
-
 ## Licensing Information
-
 The code used to create the dataset by the A2AJ and any work on the dataset undertaken by the A2AJ is subject to an open source **MIT license**. 
-
 Users must also comply with upstream licenses found in the `upstream_license` field in the dataset for each document, which reflects the licenses through which the A2AJ obtained the document. These upstream licenses may include limits on commercial use, as well as other limitations. 
-
 The A2AJ is committed to open source methodologies, and we are actively working to obtain more permissive licenses for all data we collect.
-
-
 ## Dataset Curators
-
 * [**Sean Rehaag**](https://www.osgoode.yorku.ca/faculty-and-staff/rehaag-sean) - Co-Director, A2AJ
 * [**Simon Wallace**](https://www.torontomu.ca/law/faculty-and-research/faculty/faculty-law/simon-wallace) - Co-Director, A2AJ
 * **Contact:** [a2aj@yorku.ca](a2aj@yorku.ca)
-
 ---
-
 ## Acknowledgments
-
 This research output is supported in part by funding from the **Law Foundation of Ontario** and the **Social Sciences and Humanities Research Council of Canada**, by in-kind compute from the **Digital Research Alliance of Canada** and by administrative support from the **Centre for Refugee Studies**, the **Refugee Law Lab**, and **Osgoode Hall Law School**. We also thank Justice Canada for maintaining the open XML repository of federal laws and regulations.
-
 ## Citation
-
 > Sean Rehaag & Simon Wallace, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data) (updated 2026).
