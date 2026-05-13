@@ -1,5 +1,5 @@
 # A2AJ Canadian Legal Data
-Last updated: 2026-05-10
+Last updated: 2026-05-13
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 ## Overview
 This repository provides tools and documentation for accessing Canadian legal data through multiple open access / open source 
@@ -27,28 +27,29 @@ pre-training in the public interest—especially work that advances access to ju
 - **Server**: https://api.a2aj.ca/mcp
 - **Examples**: See `access-via-mcp.ipynb`
 ## Dataset Coverage
-### Court Decisions (210,567 cases)
+### Court Decisions (211,222 cases)
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-05-08 | 10,877 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-07 | 7,748 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-08 | 14,531 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-08 | 23,811 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-11 | 7,750 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-11 | 14,534 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-11 | 23,817 |
 | NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-05-08 | 4,716 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-04-27 | 275 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-05-08 | 35,447 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-05-07 | 8,046 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-05-11 | 35,450 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-05-08 | 8,047 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-04-27 | 153 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-05-07 | 51,698 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-05 | 9,128 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-05-08 | 51,705 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-08 | 9,134 |
 | NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-05-06 | 1,594 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-04-17 | 17,666 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-04-17 | 17,667 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-11 | 14,122 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
 | CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-23 | 1,128 |
+| CT     | Competition Tribunal                     | 2000-02-17 – 2026-05-01 | 626 |
 
 ### Legislation & Regulations (10,849 documents)
 | Code            | Type                      | Coverage Period            | Documents |
