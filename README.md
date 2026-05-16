@@ -1,5 +1,5 @@
 # A2AJ Canadian Legal Data
-Last updated: 2026-05-13
+Last updated: 2026-05-16
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 ## Overview
 This repository provides tools and documentation for accessing Canadian legal data through multiple open access / open source 
@@ -51,15 +51,15 @@ pre-training in the public interest—especially work that advances access to ju
 | CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-23 | 1,128 |
 | CT     | Competition Tribunal                     | 2000-02-17 – 2026-05-01 | 626 |
 
-### Legislation & Regulations (10,849 documents)
+### Legislation & Regulations (10,845 documents)
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2025-06-26 | 954 |
 | REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-03-13 | 4,845 |
-| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-05-01 | 853 |
-| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-05-07 | 2,189 |
+| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-05-12 | 853 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-05-11 | 2,188 |
 | LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-04-16 | 585 |
-| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,423 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-03-18 | 1,420 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 ## Data Fields
