@@ -1,5 +1,5 @@
 # A2AJ Canadian Legal Data
-Last updated: 2026-05-23
+Last updated: 2026-05-24
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 ## Overview
 This repository provides tools and documentation for accessing Canadian legal data through multiple open access / open source 
@@ -27,7 +27,7 @@ pre-training in the public interest—especially work that advances access to ju
 - **Server**: https://api.a2aj.ca/mcp
 - **Examples**: See `access-via-mcp.ipynb`
 ## Dataset Coverage
-### Court Decisions (216,715 cases)
+### Court Decisions (216,716 cases)
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-05-22 | 10,879 |
@@ -50,7 +50,7 @@ pre-training in the public interest—especially work that advances access to ju
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
 | CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-23 | 1,135 |
 | CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-05-15 | 5,300 |
-| CT     | Competition Tribunal                     | 2000-02-17 – 2026-05-01 | 626 |
+| CT     | Competition Tribunal                     | 2000-02-17 – 2026-05-19 | 627 |
 
 ### Legislation & Regulations (10,845 documents)
 | Code            | Type                      | Coverage Period            | Documents |
