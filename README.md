@@ -1,5 +1,5 @@
 # A2AJ Canadian Legal Data
-Last updated: 2026-05-26
+Last updated: 2026-05-29
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 ## Overview
 This repository provides tools and documentation for accessing Canadian legal data through multiple open access / open source 
@@ -27,31 +27,35 @@ pre-training in the public interest—especially work that advances access to ju
 - **Server**: https://api.a2aj.ca/mcp
 - **Examples**: See `access-via-mcp.ipynb`
 ## Dataset Coverage
-### Court Decisions (217,071 cases)
+### Court Decisions (222,570 cases)
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-05-22 | 10,880 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-25 | 7,761 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-25 | 14,554 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-25 | 23,845 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-05-22 | 4,719 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-05-28 | 7,763 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-05-28 | 14,561 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-05-28 | 23,854 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-05-26 | 4,720 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-04-27 | 275 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-05-25 | 35,494 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-05-22 | 8,054 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-05-28 | 35,510 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-05-22 | 8,056 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-05-19 | 154 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-05-22 | 51,757 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-22 | 9,149 |
-| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-05-14 | 1,597 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-05-27 | 51,779 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-05-26 | 9,151 |
+| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-05-26 | 1,598 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-05-11 | 17,697 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-05-11 | 1,140 |
+| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-04-30 | 1,169 |
+| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-05-15 | 5,300 |
+| CT     | Competition Tribunal                     | 2000-02-17 – 2026-05-19 | 623 |
+| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-04-23 | 3,425 |
+| OHSTC  | Occupational Health and Safety Tribunal Canada | 1992-01-09 – 2025-03-06 | 811 |
+| OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-03-27 | 323 |
+| PSDPT  | Public Service Disclosure Protection Tribunal | 2011-06-10 – 2025-05-21 | 29 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-08-11 | 14,122 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-04-23 | 1,136 |
-| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-05-15 | 5,300 |
-| CT     | Competition Tribunal                     | 2000-02-17 – 2026-05-19 | 627 |
-| OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-03-27 | 323 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-05-13 | 17,700 |
 
 ### Legislation & Regulations (10,845 documents)
 | Code            | Type                      | Coverage Period            | Documents |
