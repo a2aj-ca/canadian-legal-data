@@ -73,16 +73,16 @@ below for details.
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
 | SST    | Social Security Tribunal                 | 2013-03-08 – 2026-05-27 | 17,729 |
 
-### Legislation & Regulations (10,845 documents)
+### Legislation & Regulations (10,887 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
-| LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2025-06-26 | 954 |
-| REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-03-13 | 4,845 |
-| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-05-19 | 853 |
-| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-05-19 | 2,189 |
-| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-04-16 | 585 |
-| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-05-11 | 1,419 |
+| LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2026-05-06 | 962 |
+| REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-05-25 | 4,868 |
+| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-06-10 | 856 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-06-11 | 2,198 |
+| LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-05-28 | 586 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-05-11 | 1,417 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
