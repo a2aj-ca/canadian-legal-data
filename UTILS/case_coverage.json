@@ -5,32 +5,32 @@
       "description_en": "Supreme Court of Canada",
       "description_fr": "Cour suprême du Canada",
       "earliest_document_date": "1877-01-15",
-      "latest_document_date": "2026-06-05",
-      "number_of_documents": 10883
+      "latest_document_date": "2026-06-12",
+      "number_of_documents": 10884
     },
     {
       "dataset": "FCA",
       "description_en": "Federal Court of Appeal",
       "description_fr": "Cour d'appel fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-06-03",
-      "number_of_documents": 7767
+      "latest_document_date": "2026-06-11",
+      "number_of_documents": 7769
     },
     {
       "dataset": "BCCA",
       "description_en": "British Columbia Court of Appeal",
       "description_fr": "Cour d'appel de la Colombie-Britannique",
       "earliest_document_date": "1999-01-04",
-      "latest_document_date": "2026-06-10",
-      "number_of_documents": 14585
+      "latest_document_date": "2026-06-12",
+      "number_of_documents": 14590
     },
     {
       "dataset": "ONCA",
       "description_en": "Ontario Court of Appeal",
       "description_fr": "Cour d'appel de l'Ontario",
       "earliest_document_date": "1998-06-08",
-      "latest_document_date": "2026-06-10",
-      "number_of_documents": 23886
+      "latest_document_date": "2026-06-12",
+      "number_of_documents": 23899
     },
     {
       "dataset": "NSCA",
@@ -53,8 +53,8 @@
       "description_en": "Federal Court",
       "description_fr": "Cour fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-06-10",
-      "number_of_documents": 35575
+      "latest_document_date": "2026-06-12",
+      "number_of_documents": 35598
     },
     {
       "dataset": "TCC",
@@ -77,16 +77,16 @@
       "description_en": "Supreme Court of British Columbia",
       "description_fr": "Cour suprême de la Colombie-Britannique",
       "earliest_document_date": "2000-01-04",
-      "latest_document_date": "2026-06-09",
-      "number_of_documents": 51838
+      "latest_document_date": "2026-06-11",
+      "number_of_documents": 51854
     },
     {
       "dataset": "NSSC",
       "description_en": "Nova Scotia Supreme Court",
       "description_fr": "Cour suprême de la Nouvelle-Écosse",
       "earliest_document_date": "2001-01-04",
-      "latest_document_date": "2026-06-05",
-      "number_of_documents": 9173
+      "latest_document_date": "2026-06-12",
+      "number_of_documents": 9175
     },
     {
       "dataset": "NSPC",
@@ -118,7 +118,7 @@
       "description_fr": "Tribunal canadien des droits de la personne",
       "earliest_document_date": "2003-01-10",
       "latest_document_date": "2026-06-10",
-      "number_of_documents": 1150
+      "number_of_documents": 1151
     },
     {
       "dataset": "CIRB",
@@ -134,7 +134,7 @@
       "description_fr": "Tribunal canadien du commerce extérieur",
       "earliest_document_date": "1980-01-01",
       "latest_document_date": "2026-06-10",
-      "number_of_documents": 5363
+      "number_of_documents": 5411
     },
     {
       "dataset": "CT",
@@ -149,8 +149,8 @@
       "description_en": "Federal Public Sector Labour Relations and Employment Board",
       "description_fr": "Conseil des relations de travail et de l'emploi dans la fonction publique fédérale",
       "earliest_document_date": "2003-01-03",
-      "latest_document_date": "2026-04-23",
-      "number_of_documents": 3427
+      "latest_document_date": "2026-06-10",
+      "number_of_documents": 3429
     },
     {
       "dataset": "OHSTC",
@@ -165,8 +165,8 @@
       "description_en": "Information Commissioner of Canada",
       "description_fr": "Commissaire à l'information du Canada",
       "earliest_document_date": "2019-08-26",
-      "latest_document_date": "2026-03-27",
-      "number_of_documents": 323
+      "latest_document_date": "2026-04-09",
+      "number_of_documents": 325
     },
     {
       "dataset": "PSDPT",
@@ -205,8 +205,8 @@
       "description_en": "Social Security Tribunal",
       "description_fr": "Tribunal de la sécurité sociale",
       "earliest_document_date": "2013-03-08",
-      "latest_document_date": "2026-05-15",
-      "number_of_documents": 17723
+      "latest_document_date": "2026-05-27",
+      "number_of_documents": 17729
     }
   ]
 }
