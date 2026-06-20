@@ -21,7 +21,7 @@
       "description_en": "Ontario Legislation",
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
-      "latest_document_date": "2026-06-10",
+      "latest_document_date": "2026-06-19",
       "number_of_documents": 856
     },
     {
@@ -29,8 +29,8 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-06-11",
-      "number_of_documents": 2198
+      "latest_document_date": "2026-06-19",
+      "number_of_documents": 2202
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -38,7 +38,7 @@
       "description_fr": "Législation de la Colombie-Britannique",
       "earliest_document_date": "1924-12-19",
       "latest_document_date": "2026-05-28",
-      "number_of_documents": 586
+      "number_of_documents": 588
     },
     {
       "dataset": "REGULATIONS-BC",
