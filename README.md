@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-06-21
+Last updated: 2026-06-27
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -73,16 +73,16 @@ below for details.
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
 | SST    | Social Security Tribunal                 | 2013-03-08 – 2026-05-27 | 17,738 |
 
-### Legislation & Regulations (10,893 documents)
+### Legislation & Regulations (10,895 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2026-05-06 | 962 |
 | REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-05-25 | 4,868 |
-| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-06-19 | 856 |
-| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-06-19 | 2,202 |
+| LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-06-25 | 856 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-06-26 | 2,205 |
 | LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-05-28 | 588 |
-| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-05-11 | 1,417 |
+| REGULATIONS-BC  | British Columbia Regulations | 1975-04-22 – 2026-05-11 | 1,416 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
