@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -42,36 +42,36 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (223,432 cases)
+### Court Decisions (223,533 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-06-26 | 10,886 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-06-26 | 7,775 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-07-03 | 7,780 |
 | BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-06-22 | 14,603 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-06-26 | 23,948 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-06-24 | 4,731 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-07-03 | 23,966 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-06-30 | 4,735 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-06-16 | 276 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-06-26 | 35,674 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-06-26 | 8,079 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-07-03 | 35,705 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-06-29 | 8,083 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-05-19 | 154 |
 | BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-06-19 | 51,899 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-06-24 | 9,185 |
-| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-06-22 | 1,605 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-07-02 | 9,194 |
+| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-06-26 | 1,606 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
-| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-03-20 | 1,648 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-06-17 | 1,162 |
-| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-05-01 | 1,174 |
-| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-06-26 | 5,500 |
+| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-06-15 | 1,653 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-06-26 | 1,165 |
+| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-05-01 | 1,178 |
+| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-07-03 | 5,504 |
 | CT     | Competition Tribunal                     | 2000-02-17 – 2026-06-25 | 635 |
-| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-06-16 | 3,432 |
+| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-06-16 | 3,433 |
 | OHSTC  | Occupational Health and Safety Tribunal Canada | 1992-01-09 – 2025-03-06 | 811 |
-| OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-05-28 | 327 |
+| OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-05-28 | 329 |
 | PSDPT  | Public Service Disclosure Protection Tribunal | 2011-06-10 – 2025-05-21 | 29 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-10-23 | 14,156 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-06-15 | 17,764 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-06-19 | 17,774 |
 
 ### Legislation & Regulations (10,894 documents)
 
