@@ -216,6 +216,7 @@ The A2AJ is committed to open source methodologies, and we are actively working 
 
 * [**Sean Rehaag**](https://www.osgoode.yorku.ca/faculty-and-staff/rehaag-sean) - Co-Director, A2AJ
 * [**Simon Wallace**](https://www.torontomu.ca/law/faculty-and-research/faculty/faculty-law/simon-wallace) - Co-Director, A2AJ
+* [**Clifford McCarten**](https://mccarten.ca/) - Associate-Director, A2AJ
 * **Contact:** [a2aj@yorku.ca](a2aj@yorku.ca)
 
 ---
@@ -226,7 +227,7 @@ This research output is supported in part by funding from the **Law Foundation o
 
 ## Citation
 
-> Sean Rehaag & Simon Wallace, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data) (updated 2026).
+> Sean Rehaag, Simon Wallace & Clifford McCarten, "A2AJ Canadian Legal Data" (2025), online: GitHub [https://github.com/a2aj-ca/canadian-legal-data](https://github.com/a2aj-ca/canadian-legal-data) (updated 2026).
 """
 
     # Write README file

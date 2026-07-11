@@ -29,7 +29,7 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-07-02",
+      "latest_document_date": "2026-07-10",
       "number_of_documents": 2205
     },
     {
@@ -38,15 +38,127 @@
       "description_fr": "Législation de la Colombie-Britannique",
       "earliest_document_date": "1924-12-19",
       "latest_document_date": "2026-05-28",
-      "number_of_documents": 588
+      "number_of_documents": 574
     },
     {
       "dataset": "REGULATIONS-BC",
       "description_en": "British Columbia Regulations",
       "description_fr": "Règlements de la Colombie-Britannique",
-      "earliest_document_date": "1975-04-22",
-      "latest_document_date": "2026-05-11",
-      "number_of_documents": 1415
+      "earliest_document_date": "1968-01-01",
+      "latest_document_date": "2026-06-24",
+      "number_of_documents": 1466
+    },
+    {
+      "dataset": "LEGISLATION-AB",
+      "description_en": "Alberta Legislation",
+      "description_fr": "Législation de l'Alberta",
+      "earliest_document_date": "2002-01-01",
+      "latest_document_date": "2026-06-18",
+      "number_of_documents": 442
+    },
+    {
+      "dataset": "REGULATIONS-AB",
+      "description_en": "Alberta Regulations",
+      "description_fr": "Règlements de l'Alberta",
+      "earliest_document_date": "1969-02-11",
+      "latest_document_date": "2026-07-06",
+      "number_of_documents": 909
+    },
+    {
+      "dataset": "LEGISLATION-NS",
+      "description_en": "Nova Scotia Legislation",
+      "description_fr": "Législation de la Nouvelle-Écosse",
+      "earliest_document_date": "1900-01-01",
+      "latest_document_date": "2026-01-01",
+      "number_of_documents": 625
+    },
+    {
+      "dataset": "REGULATIONS-NS",
+      "description_en": "Nova Scotia Regulations",
+      "description_fr": "Règlements de la Nouvelle-Écosse",
+      "earliest_document_date": "1913-09-08",
+      "latest_document_date": "2026-06-15",
+      "number_of_documents": 1501
+    },
+    {
+      "dataset": "LEGISLATION-YT",
+      "description_en": "Yukon Legislation",
+      "description_fr": "Législation du Yukon",
+      "earliest_document_date": "2000-01-01",
+      "latest_document_date": "2026-01-01",
+      "number_of_documents": 278
+    },
+    {
+      "dataset": "REGULATIONS-YT",
+      "description_en": "Yukon Regulations",
+      "description_fr": "Règlements du Yukon",
+      "earliest_document_date": "1957-08-01",
+      "latest_document_date": "2027-03-01",
+      "number_of_documents": 1355
+    },
+    {
+      "dataset": "LEGISLATION-MB",
+      "description_en": "Manitoba Legislation",
+      "description_fr": "Législation du Manitoba",
+      "earliest_document_date": "1985-06-26",
+      "latest_document_date": "2026-06-01",
+      "number_of_documents": 515
+    },
+    {
+      "dataset": "REGULATIONS-MB",
+      "description_en": "Manitoba Regulations",
+      "description_fr": "Règlements du Manitoba",
+      "earliest_document_date": "1972-09-27",
+      "latest_document_date": "2026-06-25",
+      "number_of_documents": 1093
+    },
+    {
+      "dataset": "LEGISLATION-NB",
+      "description_en": "New Brunswick Legislation",
+      "description_fr": "Législation du Nouveau-Brunswick",
+      "earliest_document_date": "1973-01-01",
+      "latest_document_date": "2026-06-12",
+      "number_of_documents": 421
+    },
+    {
+      "dataset": "REGULATIONS-NB",
+      "description_en": "New Brunswick Regulations",
+      "description_fr": "Règlements du Nouveau-Brunswick",
+      "earliest_document_date": "1980-10-30",
+      "latest_document_date": "2026-06-24",
+      "number_of_documents": 675
+    },
+    {
+      "dataset": "LEGISLATION-NL",
+      "description_en": "Newfoundland and Labrador Legislation",
+      "description_fr": "Législation de Terre-Neuve-et-Labrador",
+      "earliest_document_date": "1957-06-12",
+      "latest_document_date": "2025-03-18",
+      "number_of_documents": 402
+    },
+    {
+      "dataset": "REGULATIONS-NL",
+      "description_en": "Newfoundland and Labrador Regulations",
+      "description_fr": "Règlements de Terre-Neuve-et-Labrador",
+      "earliest_document_date": "1986-01-01",
+      "latest_document_date": "2026-07-08",
+      "number_of_documents": 1663
+    },
+    {
+      "dataset": "LEGISLATION-NT",
+      "description_en": "Northwest Territories Legislation",
+      "description_fr": "Législation des Territoires du Nord-Ouest",
+      "earliest_document_date": "1988-01-01",
+      "latest_document_date": "2024-01-01",
+      "number_of_documents": 239
+    },
+    {
+      "dataset": "REGULATIONS-NT",
+      "description_en": "Northwest Territories Regulations",
+      "description_fr": "Règlements des Territoires du Nord-Ouest",
+      "earliest_document_date": "1990-01-01",
+      "latest_document_date": "2026-01-01",
+      "number_of_documents": 561
     }
   ]
 }
