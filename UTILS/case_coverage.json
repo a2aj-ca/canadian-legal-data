@@ -21,8 +21,8 @@
       "description_en": "British Columbia Court of Appeal",
       "description_fr": "Cour d'appel de la Colombie-Britannique",
       "earliest_document_date": "1999-01-04",
-      "latest_document_date": "2026-06-22",
-      "number_of_documents": 14603
+      "latest_document_date": "2026-07-17",
+      "number_of_documents": 14631
     },
     {
       "dataset": "ONCA",
@@ -45,8 +45,8 @@
       "description_en": "Yukon Court of Appeal",
       "description_fr": "Cour d'appel du Yukon",
       "earliest_document_date": "2000-05-15",
-      "latest_document_date": "2026-06-16",
-      "number_of_documents": 276
+      "latest_document_date": "2026-06-24",
+      "number_of_documents": 277
     },
     {
       "dataset": "FC",
@@ -77,8 +77,8 @@
       "description_en": "Supreme Court of British Columbia",
       "description_fr": "Cour suprême de la Colombie-Britannique",
       "earliest_document_date": "2000-01-04",
-      "latest_document_date": "2026-06-19",
-      "number_of_documents": 51899
+      "latest_document_date": "2026-07-16",
+      "number_of_documents": 52078
     },
     {
       "dataset": "NSSC",

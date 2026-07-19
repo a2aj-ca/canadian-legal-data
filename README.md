@@ -42,20 +42,20 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (223,878 cases)
+### Court Decisions (224,086 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-07-17 | 10,888 |
 | FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-07-09 | 7,784 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-06-22 | 14,603 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-07-17 | 14,631 |
 | ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-07-17 | 24,002 |
 | NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-07-10 | 4,737 |
-| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-06-16 | 276 |
+| YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-06-24 | 277 |
 | FC     | Federal Court                            | 2001-02-01 – 2026-07-17 | 35,784 |
 | TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-07-14 | 8,092 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-05-19 | 154 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-06-19 | 51,899 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-07-16 | 52,078 |
 | NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-07-17 | 9,214 |
 | NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-07-13 | 1,608 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
