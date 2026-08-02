@@ -29,8 +29,8 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-07-24",
-      "number_of_documents": 2208
+      "latest_document_date": "2026-07-31",
+      "number_of_documents": 2209
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -45,8 +45,8 @@
       "description_en": "British Columbia Regulations",
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
-      "latest_document_date": "2026-06-24",
-      "number_of_documents": 1466
+      "latest_document_date": "2026-07-20",
+      "number_of_documents": 1469
     },
     {
       "dataset": "LEGISLATION-AB",
@@ -69,7 +69,7 @@
       "description_en": "Nova Scotia Legislation",
       "description_fr": "Législation de la Nouvelle-Écosse",
       "earliest_document_date": "1900-01-01",
-      "latest_document_date": "2026-01-01",
+      "latest_document_date": "2026-07-27",
       "number_of_documents": 625
     },
     {
@@ -118,7 +118,7 @@
       "description_fr": "Législation du Nouveau-Brunswick",
       "earliest_document_date": "1973-01-01",
       "latest_document_date": "2026-06-12",
-      "number_of_documents": 421
+      "number_of_documents": 422
     },
     {
       "dataset": "REGULATIONS-NB",
@@ -181,7 +181,7 @@
       "description_en": "Prince Edward Island Legislation",
       "description_fr": "Législation de l'Île-du-Prince-Édouard",
       "earliest_document_date": "2003-11-01",
-      "latest_document_date": "2029-05-29",
+      "latest_document_date": "2026-07-11",
       "number_of_documents": 342
     },
     {
@@ -189,7 +189,7 @@
       "description_en": "Prince Edward Island Regulations",
       "description_fr": "Règlements de l'Île-du-Prince-Édouard",
       "earliest_document_date": "2002-12-31",
-      "latest_document_date": "2026-07-23",
+      "latest_document_date": "2026-07-25",
       "number_of_documents": 395
     }
   ]

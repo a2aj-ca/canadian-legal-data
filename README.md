@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-07-26
+Last updated: 2026-08-02
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -42,66 +42,68 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (225,017 cases)
+### Court Decisions (225,162 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
-| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-07-24 | 10,889 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-07-22 | 7,785 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-07-24 | 14,647 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-07-24 | 24,019 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-07-23 | 4,739 |
+| SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-07-31 | 10,891 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-07-30 | 7,788 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-07-30 | 14,659 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-07-31 | 24,036 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-07-24 | 4,740 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-06-24 | 277 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-07-24 | 35,814 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-07-22 | 8,095 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-07-30 | 35,829 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-07-29 | 8,099 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-05-19 | 154 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-07-23 | 52,115 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-07-22 | 9,219 |
-| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-07-21 | 1,610 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-07-30 | 52,163 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-07-31 | 9,229 |
+| NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-07-28 | 1,612 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
-| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-07-13 | 1,658 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-07-16 | 1,168 |
-| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-05-01 | 1,182 |
-| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-07-24 | 5,338 |
+| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-07-30 | 1,659 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-07-24 | 1,172 |
+| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-05-01 | 1,184 |
+| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-07-27 | 5,340 |
 | CT     | Competition Tribunal                     | 2000-02-17 – 2026-07-07 | 637 |
-| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-06-16 | 3,436 |
+| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-06-29 | 3,440 |
 | OHSTC  | Occupational Health and Safety Tribunal Canada | 1992-01-09 – 2025-03-06 | 811 |
 | OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-05-28 | 331 |
 | PSDPT  | Public Service Disclosure Protection Tribunal | 2011-06-10 – 2025-05-21 | 29 |
 | RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-10-23 | 14,156 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-07-17 | 17,824 |
-| TATC   | Transportation Appeal Tribunal of Canada | 2007-01-15 – 2026-03-31 | 537 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-07-28 | 17,841 |
+| TATC   | Transportation Appeal Tribunal of Canada | 2007-01-15 – 2026-03-31 | 538 |
 | CART   | Canada Agricultural Review Tribunal      | 2010-01-15 – 2026-07-14 | 524 |
 | SCT    | Specific Claims Tribunal Canada          | 2012-07-04 – 2025-07-25 | 44 |
 
-### Legislation & Regulations (22,785 documents)
+### Legislation & Regulations (23,536 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
 | LEGISLATION-FED | Federal Statutes          | 1870-05-12 – 2026-05-06 | 962 |
-| REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-05-25 | 4,868 |
+| REGULATIONS-FED | Federal Regulations       | 1945-12-21 – 2026-06-17 | 4,876 |
 | LEGISLATION-ON  | Ontario Legislation       | 1986-07-28 – 2026-07-16 | 856 |
-| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-07-17 | 2,206 |
+| REGULATIONS-ON  | Ontario Regulations       | 1990-12-31 – 2026-07-31 | 2,209 |
 | LEGISLATION-BC  | British Columbia Legislation | 1924-12-19 – 2026-05-28 | 574 |
-| REGULATIONS-BC  | British Columbia Regulations | 1968-01-01 – 2026-06-24 | 1,466 |
-| LEGISLATION-AB  | Alberta Legislation       | 2002-01-01 – 2026-06-30 | 442 |
-| REGULATIONS-AB  | Alberta Regulations       | 1969-02-11 – 2026-07-06 | 909 |
-| LEGISLATION-NS  | Nova Scotia Legislation   | 1900-01-01 – 2026-01-01 | 625 |
-| REGULATIONS-NS  | Nova Scotia Regulations   | 1913-09-08 – 2026-06-30 | 1,504 |
+| REGULATIONS-BC  | British Columbia Regulations | 1968-01-01 – 2026-07-20 | 1,469 |
+| LEGISLATION-AB  | Alberta Legislation       | 2002-01-01 – 2026-07-14 | 442 |
+| REGULATIONS-AB  | Alberta Regulations       | 1969-02-11 – 2026-07-23 | 911 |
+| LEGISLATION-NS  | Nova Scotia Legislation   | 1900-01-01 – 2026-07-27 | 625 |
+| REGULATIONS-NS  | Nova Scotia Regulations   | 1913-09-08 – 2026-06-30 | 1,501 |
 | LEGISLATION-YT  | Yukon Legislation         | 2000-01-01 – 2026-01-01 | 278 |
 | REGULATIONS-YT  | Yukon Regulations         | 1957-08-01 – 2027-03-01 | 1,355 |
 | LEGISLATION-MB  | Manitoba Legislation      | 1985-06-26 – 2026-06-01 | 515 |
 | REGULATIONS-MB  | Manitoba Regulations      | 1972-09-27 – 2026-07-14 | 1,093 |
-| LEGISLATION-NB  | New Brunswick Legislation | 1973-01-01 – 2026-06-12 | 421 |
+| LEGISLATION-NB  | New Brunswick Legislation | 1973-01-01 – 2026-06-12 | 422 |
 | REGULATIONS-NB  | New Brunswick Regulations | 1980-10-30 – 2026-06-24 | 675 |
-| LEGISLATION-NL  | Newfoundland and Labrador Legislation | 1957-06-12 – 2025-03-18 | 402 |
+| LEGISLATION-NL  | Newfoundland and Labrador Legislation | 1957-06-12 – 2025-03-18 | 403 |
 | REGULATIONS-NL  | Newfoundland and Labrador Regulations | 1986-01-01 – 2026-07-08 | 1,663 |
 | LEGISLATION-NT  | Northwest Territories Legislation | 1988-01-01 – 2024-01-01 | 239 |
 | REGULATIONS-NT  | Northwest Territories Regulations | 1990-01-01 – 2026-01-01 | 561 |
 | LEGISLATION-SK  | Saskatchewan Legislation  | 1954-12-20 – 2026-06-30 | 505 |
-| REGULATIONS-SK  | Saskatchewan Regulations  | 1943-12-06 – 2026-07-01 | 666 |
+| REGULATIONS-SK  | Saskatchewan Regulations  | 1943-12-06 – 2026-07-01 | 665 |
+| LEGISLATION-PE  | Prince Edward Island Legislation | 2003-11-01 – 2026-07-11 | 342 |
+| REGULATIONS-PE  | Prince Edward Island Regulations | 2002-12-31 – 2026-07-25 | 395 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
