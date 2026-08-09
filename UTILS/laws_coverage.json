@@ -5,8 +5,8 @@
       "description_en": "Federal Statutes",
       "description_fr": "Lois fédérales",
       "earliest_document_date": "1870-05-12",
-      "latest_document_date": "2026-05-06",
-      "number_of_documents": 962
+      "latest_document_date": "2026-06-15",
+      "number_of_documents": 965
     },
     {
       "dataset": "REGULATIONS-FED",
@@ -22,15 +22,15 @@
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
       "latest_document_date": "2026-07-16",
-      "number_of_documents": 856
+      "number_of_documents": 855
     },
     {
       "dataset": "REGULATIONS-ON",
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-07-31",
-      "number_of_documents": 2209
+      "latest_document_date": "2026-08-04",
+      "number_of_documents": 2210
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -45,8 +45,8 @@
       "description_en": "British Columbia Regulations",
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
-      "latest_document_date": "2026-07-20",
-      "number_of_documents": 1469
+      "latest_document_date": "2026-07-24",
+      "number_of_documents": 1471
     },
     {
       "dataset": "LEGISLATION-AB",
@@ -77,8 +77,8 @@
       "description_en": "Nova Scotia Regulations",
       "description_fr": "Règlements de la Nouvelle-Écosse",
       "earliest_document_date": "1913-09-08",
-      "latest_document_date": "2026-06-30",
-      "number_of_documents": 1501
+      "latest_document_date": "2026-07-14",
+      "number_of_documents": 1504
     },
     {
       "dataset": "LEGISLATION-YT",
@@ -157,8 +157,8 @@
       "description_en": "Northwest Territories Regulations",
       "description_fr": "Règlements des Territoires du Nord-Ouest",
       "earliest_document_date": "1990-01-01",
-      "latest_document_date": "2026-01-01",
-      "number_of_documents": 561
+      "latest_document_date": "2026-08-01",
+      "number_of_documents": 563
     },
     {
       "dataset": "LEGISLATION-SK",
@@ -182,15 +182,15 @@
       "description_fr": "Législation de l'Île-du-Prince-Édouard",
       "earliest_document_date": "2003-11-01",
       "latest_document_date": "2026-07-11",
-      "number_of_documents": 342
+      "number_of_documents": 341
     },
     {
       "dataset": "REGULATIONS-PE",
       "description_en": "Prince Edward Island Regulations",
       "description_fr": "Règlements de l'Île-du-Prince-Édouard",
       "earliest_document_date": "2002-12-31",
-      "latest_document_date": "2026-07-25",
-      "number_of_documents": 395
+      "latest_document_date": "2026-08-01",
+      "number_of_documents": 396
     }
   ]
 }
