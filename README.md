@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-08-09
+Last updated: 2026-08-11
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -76,7 +76,7 @@ below for details.
 | CART   | Canada Agricultural Review Tribunal      | 2010-01-15 – 2026-07-20 | 525 |
 | SCT    | Specific Claims Tribunal Canada          | 2012-07-04 – 2025-07-25 | 44 |
 
-### Legislation & Regulations (23,546 documents)
+### Legislation & Regulations (26,626 documents)
 
 | Code            | Type                      | Coverage Period            | Documents |
 |-----------------|---------------------------|----------------------------|-----------|
@@ -104,6 +104,8 @@ below for details.
 | REGULATIONS-SK  | Saskatchewan Regulations  | 1943-12-06 – 2026-07-01 | 665 |
 | LEGISLATION-PE  | Prince Edward Island Legislation | 2003-11-01 – 2026-07-11 | 341 |
 | REGULATIONS-PE  | Prince Edward Island Regulations | 2002-12-31 – 2026-08-01 | 396 |
+| LEGISLATION-QC  | Quebec Legislation        | 1992-06-23 – 2026-04-02 | 542 |
+| REGULATIONS-QC  | Quebec Regulations        | 2012-09-01 – 2026-07-01 | 2,538 |
 
 > Note: Counts are approximate and will drift as datasets are updated.
 
