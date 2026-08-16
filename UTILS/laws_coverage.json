@@ -22,15 +22,15 @@
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
       "latest_document_date": "2026-07-16",
-      "number_of_documents": 855
+      "number_of_documents": 856
     },
     {
       "dataset": "REGULATIONS-ON",
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-08-04",
-      "number_of_documents": 2210
+      "latest_document_date": "2026-08-14",
+      "number_of_documents": 2211
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -45,15 +45,15 @@
       "description_en": "British Columbia Regulations",
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
-      "latest_document_date": "2026-07-24",
-      "number_of_documents": 1471
+      "latest_document_date": "2026-08-05",
+      "number_of_documents": 1472
     },
     {
       "dataset": "LEGISLATION-AB",
       "description_en": "Alberta Legislation",
       "description_fr": "Législation de l'Alberta",
       "earliest_document_date": "2002-01-01",
-      "latest_document_date": "2026-07-14",
+      "latest_document_date": "2026-07-31",
       "number_of_documents": 442
     },
     {
@@ -61,15 +61,15 @@
       "description_en": "Alberta Regulations",
       "description_fr": "Règlements de l'Alberta",
       "earliest_document_date": "1969-02-11",
-      "latest_document_date": "2026-07-23",
-      "number_of_documents": 911
+      "latest_document_date": "2026-08-05",
+      "number_of_documents": 922
     },
     {
       "dataset": "LEGISLATION-NS",
       "description_en": "Nova Scotia Legislation",
       "description_fr": "Législation de la Nouvelle-Écosse",
       "earliest_document_date": "1900-01-01",
-      "latest_document_date": "2026-07-27",
+      "latest_document_date": "2026-08-05",
       "number_of_documents": 625
     },
     {
@@ -141,7 +141,7 @@
       "description_en": "Newfoundland and Labrador Regulations",
       "description_fr": "Règlements de Terre-Neuve-et-Labrador",
       "earliest_document_date": "1986-01-01",
-      "latest_document_date": "2026-07-08",
+      "latest_document_date": "2026-08-07",
       "number_of_documents": 1663
     },
     {
@@ -173,7 +173,7 @@
       "description_en": "Saskatchewan Regulations",
       "description_fr": "Règlements de la Saskatchewan",
       "earliest_document_date": "1943-12-06",
-      "latest_document_date": "2026-07-01",
+      "latest_document_date": "2026-07-15",
       "number_of_documents": 665
     },
     {
@@ -189,7 +189,7 @@
       "description_en": "Prince Edward Island Regulations",
       "description_fr": "Règlements de l'Île-du-Prince-Édouard",
       "earliest_document_date": "2002-12-31",
-      "latest_document_date": "2026-08-01",
+      "latest_document_date": "2026-08-08",
       "number_of_documents": 396
     },
     {
