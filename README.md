@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-08-16
+Last updated: 2026-08-23
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -42,38 +42,38 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (225,361 cases)
+### Court Decisions (225,521 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-07-31 | 10,891 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-08-14 | 7,793 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-08-14 | 14,673 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-08-14 | 24,061 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-08-13 | 4,743 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-08-21 | 7,795 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-08-21 | 14,684 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-08-20 | 24,071 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-08-19 | 4,745 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-08-06 | 279 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-08-14 | 35,857 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-08-12 | 8,107 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-08-21 | 35,872 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-08-19 | 8,109 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-05-19 | 154 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-08-13 | 52,217 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-08-18 | 9,240 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-08-20 | 52,245 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-08-20 | 9,244 |
 | NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-08-14 | 1,616 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
-| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-07-30 | 1,660 |
-| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-07-31 | 1,179 |
-| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-05-01 | 1,186 |
-| CITT   | Canadian International Trade Tribunal    | 1980-01-01 – 2026-08-14 | 5,348 |
+| NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-07-30 | 1,661 |
+| CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-08-14 | 1,180 |
+| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-05-07 | 1,187 |
+| CITT   | Canadian International Trade Tribunal    | 1984-11-07 – 2026-08-18 | 5,350 |
 | CT     | Competition Tribunal                     | 2000-02-17 – 2026-08-12 | 639 |
 | FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-08-07 | 3,446 |
 | OHSTC  | Occupational Health and Safety Tribunal Canada | 1992-01-09 – 2025-03-06 | 811 |
 | OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-06-17 | 333 |
 | PSDPT  | Public Service Disclosure Protection Tribunal | 2011-06-10 – 2025-05-21 | 29 |
-| RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-10-23 | 14,156 |
+| RAD    | Refugee Appeal Division (IRB)            | 2013-02-19 – 2025-10-23 | 14,216 |
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-13 | 927 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-07-31 | 17,857 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-08-12 | 17,875 |
 | TATC   | Transportation Appeal Tribunal of Canada | 2007-01-15 – 2026-03-31 | 538 |
-| CART   | Canada Agricultural Review Tribunal      | 2010-01-15 – 2026-07-20 | 525 |
+| CART   | Canada Agricultural Review Tribunal      | 2010-01-15 – 2026-08-11 | 528 |
 | SCT    | Specific Claims Tribunal Canada          | 2012-07-04 – 2025-07-25 | 44 |
 
 ### Legislation & Regulations (26,640 documents)
