@@ -21,7 +21,7 @@
       "description_en": "Ontario Legislation",
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
-      "latest_document_date": "2026-07-16",
+      "latest_document_date": "2026-08-17",
       "number_of_documents": 856
     },
     {
@@ -29,8 +29,8 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-08-14",
-      "number_of_documents": 2211
+      "latest_document_date": "2026-08-21",
+      "number_of_documents": 2212
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -70,7 +70,7 @@
       "description_fr": "Législation de la Nouvelle-Écosse",
       "earliest_document_date": "1900-01-01",
       "latest_document_date": "2026-08-05",
-      "number_of_documents": 625
+      "number_of_documents": 624
     },
     {
       "dataset": "REGULATIONS-NS",
@@ -109,7 +109,7 @@
       "description_en": "Manitoba Regulations",
       "description_fr": "Règlements du Manitoba",
       "earliest_document_date": "1972-09-27",
-      "latest_document_date": "2026-07-14",
+      "latest_document_date": "2026-08-19",
       "number_of_documents": 1093
     },
     {
@@ -157,7 +157,7 @@
       "description_en": "Northwest Territories Regulations",
       "description_fr": "Règlements des Territoires du Nord-Ouest",
       "earliest_document_date": "1990-01-01",
-      "latest_document_date": "2026-08-01",
+      "latest_document_date": "2026-08-21",
       "number_of_documents": 563
     },
     {
