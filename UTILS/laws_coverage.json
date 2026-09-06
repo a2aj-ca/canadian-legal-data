@@ -21,7 +21,7 @@
       "description_en": "Ontario Legislation",
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
-      "latest_document_date": "2026-08-17",
+      "latest_document_date": "2026-08-31",
       "number_of_documents": 856
     },
     {
@@ -29,8 +29,8 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-08-28",
-      "number_of_documents": 2214
+      "latest_document_date": "2026-09-04",
+      "number_of_documents": 2216
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -46,7 +46,7 @@
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
       "latest_document_date": "2026-08-05",
-      "number_of_documents": 1472
+      "number_of_documents": 1473
     },
     {
       "dataset": "LEGISLATION-AB",
@@ -61,8 +61,8 @@
       "description_en": "Alberta Regulations",
       "description_fr": "Règlements de l'Alberta",
       "earliest_document_date": "1969-02-11",
-      "latest_document_date": "2026-08-17",
-      "number_of_documents": 922
+      "latest_document_date": "2026-09-01",
+      "number_of_documents": 921
     },
     {
       "dataset": "LEGISLATION-NS",
@@ -77,8 +77,8 @@
       "description_en": "Nova Scotia Regulations",
       "description_fr": "Règlements de la Nouvelle-Écosse",
       "earliest_document_date": "1913-09-08",
-      "latest_document_date": "2026-07-14",
-      "number_of_documents": 1504
+      "latest_document_date": "2026-09-01",
+      "number_of_documents": 1505
     },
     {
       "dataset": "LEGISLATION-YT",
@@ -110,7 +110,7 @@
       "description_fr": "Règlements du Manitoba",
       "earliest_document_date": "1972-09-27",
       "latest_document_date": "2026-08-19",
-      "number_of_documents": 1093
+      "number_of_documents": 1091
     },
     {
       "dataset": "LEGISLATION-NB",
@@ -141,8 +141,8 @@
       "description_en": "Newfoundland and Labrador Regulations",
       "description_fr": "Règlements de Terre-Neuve-et-Labrador",
       "earliest_document_date": "1986-01-01",
-      "latest_document_date": "2026-08-07",
-      "number_of_documents": 1663
+      "latest_document_date": "2026-08-27",
+      "number_of_documents": 1664
     },
     {
       "dataset": "LEGISLATION-NT",
