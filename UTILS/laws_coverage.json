@@ -13,8 +13,8 @@
       "description_en": "Federal Regulations",
       "description_fr": "Règlements fédéraux",
       "earliest_document_date": "1945-12-21",
-      "latest_document_date": "2026-06-19",
-      "number_of_documents": 4878
+      "latest_document_date": "2026-07-29",
+      "number_of_documents": 4886
     },
     {
       "dataset": "LEGISLATION-ON",
@@ -29,8 +29,8 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-09-04",
-      "number_of_documents": 2216
+      "latest_document_date": "2026-09-11",
+      "number_of_documents": 2217
     },
     {
       "dataset": "LEGISLATION-BC",
@@ -109,7 +109,7 @@
       "description_en": "Manitoba Regulations",
       "description_fr": "Règlements du Manitoba",
       "earliest_document_date": "1972-09-27",
-      "latest_document_date": "2026-08-19",
+      "latest_document_date": "2026-09-11",
       "number_of_documents": 1091
     },
     {
@@ -133,8 +133,8 @@
       "description_en": "Newfoundland and Labrador Legislation",
       "description_fr": "Législation de Terre-Neuve-et-Labrador",
       "earliest_document_date": "1957-06-12",
-      "latest_document_date": "2025-03-18",
-      "number_of_documents": 403
+      "latest_document_date": "2026-04-20",
+      "number_of_documents": 404
     },
     {
       "dataset": "REGULATIONS-NL",
@@ -173,8 +173,8 @@
       "description_en": "Saskatchewan Regulations",
       "description_fr": "Règlements de la Saskatchewan",
       "earliest_document_date": "1943-12-06",
-      "latest_document_date": "2026-07-15",
-      "number_of_documents": 665
+      "latest_document_date": "2026-08-28",
+      "number_of_documents": 667
     },
     {
       "dataset": "LEGISLATION-PE",
@@ -197,7 +197,7 @@
       "description_en": "Quebec Legislation",
       "description_fr": "Législation du Québec",
       "earliest_document_date": "1992-06-23",
-      "latest_document_date": "2026-06-30",
+      "latest_document_date": "2026-07-01",
       "number_of_documents": 542
     },
     {
@@ -205,8 +205,8 @@
       "description_en": "Quebec Regulations",
       "description_fr": "Règlements du Québec",
       "earliest_document_date": "2012-09-01",
-      "latest_document_date": "2026-07-01",
-      "number_of_documents": 2538
+      "latest_document_date": "2026-09-01",
+      "number_of_documents": 2542
     }
   ]
 }
