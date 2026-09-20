@@ -21,7 +21,7 @@
       "description_en": "Ontario Legislation",
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
-      "latest_document_date": "2026-08-31",
+      "latest_document_date": "2026-09-15",
       "number_of_documents": 856
     },
     {
@@ -29,7 +29,7 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-09-11",
+      "latest_document_date": "2026-09-16",
       "number_of_documents": 2217
     },
     {
@@ -45,8 +45,8 @@
       "description_en": "British Columbia Regulations",
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
-      "latest_document_date": "2026-08-05",
-      "number_of_documents": 1473
+      "latest_document_date": "2026-09-08",
+      "number_of_documents": 1474
     },
     {
       "dataset": "LEGISLATION-AB",
@@ -78,7 +78,7 @@
       "description_fr": "Règlements de la Nouvelle-Écosse",
       "earliest_document_date": "1913-09-08",
       "latest_document_date": "2026-09-01",
-      "number_of_documents": 1505
+      "number_of_documents": 1506
     },
     {
       "dataset": "LEGISLATION-YT",
@@ -125,16 +125,16 @@
       "description_en": "New Brunswick Regulations",
       "description_fr": "Règlements du Nouveau-Brunswick",
       "earliest_document_date": "1980-10-30",
-      "latest_document_date": "2026-06-24",
-      "number_of_documents": 675
+      "latest_document_date": "2026-09-15",
+      "number_of_documents": 676
     },
     {
       "dataset": "LEGISLATION-NL",
       "description_en": "Newfoundland and Labrador Legislation",
       "description_fr": "Législation de Terre-Neuve-et-Labrador",
       "earliest_document_date": "1957-06-12",
-      "latest_document_date": "2026-04-20",
-      "number_of_documents": 404
+      "latest_document_date": "2025-03-18",
+      "number_of_documents": 403
     },
     {
       "dataset": "REGULATIONS-NL",
@@ -165,8 +165,8 @@
       "description_en": "Saskatchewan Legislation",
       "description_fr": "Législation de la Saskatchewan",
       "earliest_document_date": "1954-12-20",
-      "latest_document_date": "2026-06-30",
-      "number_of_documents": 505
+      "latest_document_date": "2026-08-28",
+      "number_of_documents": 506
     },
     {
       "dataset": "REGULATIONS-SK",
