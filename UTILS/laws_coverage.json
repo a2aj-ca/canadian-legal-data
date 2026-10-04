@@ -13,15 +13,15 @@
       "description_en": "Federal Regulations",
       "description_fr": "Règlements fédéraux",
       "earliest_document_date": "1945-12-21",
-      "latest_document_date": "2026-07-29",
-      "number_of_documents": 4886
+      "latest_document_date": "2026-09-04",
+      "number_of_documents": 4892
     },
     {
       "dataset": "LEGISLATION-ON",
       "description_en": "Ontario Legislation",
       "description_fr": "Législation de l'Ontario",
       "earliest_document_date": "1986-07-28",
-      "latest_document_date": "2026-09-15",
+      "latest_document_date": "2026-09-22",
       "number_of_documents": 856
     },
     {
@@ -29,7 +29,7 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-09-16",
+      "latest_document_date": "2026-10-02",
       "number_of_documents": 2217
     },
     {
@@ -46,7 +46,7 @@
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
       "latest_document_date": "2026-09-08",
-      "number_of_documents": 1474
+      "number_of_documents": 1473
     },
     {
       "dataset": "LEGISLATION-AB",
@@ -61,16 +61,16 @@
       "description_en": "Alberta Regulations",
       "description_fr": "Règlements de l'Alberta",
       "earliest_document_date": "1969-02-11",
-      "latest_document_date": "2026-09-01",
-      "number_of_documents": 921
+      "latest_document_date": "2026-10-01",
+      "number_of_documents": 923
     },
     {
       "dataset": "LEGISLATION-NS",
       "description_en": "Nova Scotia Legislation",
       "description_fr": "Législation de la Nouvelle-Écosse",
       "earliest_document_date": "1900-01-01",
-      "latest_document_date": "2026-08-05",
-      "number_of_documents": 624
+      "latest_document_date": "2026-09-17",
+      "number_of_documents": 625
     },
     {
       "dataset": "REGULATIONS-NS",
@@ -78,7 +78,7 @@
       "description_fr": "Règlements de la Nouvelle-Écosse",
       "earliest_document_date": "1913-09-08",
       "latest_document_date": "2026-09-01",
-      "number_of_documents": 1506
+      "number_of_documents": 1505
     },
     {
       "dataset": "LEGISLATION-YT",
@@ -86,7 +86,7 @@
       "description_fr": "Législation du Yukon",
       "earliest_document_date": "2000-01-01",
       "latest_document_date": "2026-01-01",
-      "number_of_documents": 278
+      "number_of_documents": 279
     },
     {
       "dataset": "REGULATIONS-YT",
@@ -102,14 +102,14 @@
       "description_fr": "Législation du Manitoba",
       "earliest_document_date": "1985-06-26",
       "latest_document_date": "2026-06-01",
-      "number_of_documents": 515
+      "number_of_documents": 516
     },
     {
       "dataset": "REGULATIONS-MB",
       "description_en": "Manitoba Regulations",
       "description_fr": "Règlements du Manitoba",
       "earliest_document_date": "1972-09-27",
-      "latest_document_date": "2026-09-11",
+      "latest_document_date": "2026-09-29",
       "number_of_documents": 1091
     },
     {
@@ -118,7 +118,7 @@
       "description_fr": "Législation du Nouveau-Brunswick",
       "earliest_document_date": "1973-01-01",
       "latest_document_date": "2026-06-12",
-      "number_of_documents": 422
+      "number_of_documents": 421
     },
     {
       "dataset": "REGULATIONS-NB",
@@ -126,7 +126,7 @@
       "description_fr": "Règlements du Nouveau-Brunswick",
       "earliest_document_date": "1980-10-30",
       "latest_document_date": "2026-09-15",
-      "number_of_documents": 676
+      "number_of_documents": 675
     },
     {
       "dataset": "LEGISLATION-NL",
@@ -197,8 +197,8 @@
       "description_en": "Quebec Legislation",
       "description_fr": "Législation du Québec",
       "earliest_document_date": "1992-06-23",
-      "latest_document_date": "2026-07-01",
-      "number_of_documents": 542
+      "latest_document_date": "2026-09-01",
+      "number_of_documents": 539
     },
     {
       "dataset": "REGULATIONS-QC",
@@ -206,7 +206,7 @@
       "description_fr": "Règlements du Québec",
       "earliest_document_date": "2012-09-01",
       "latest_document_date": "2026-09-01",
-      "number_of_documents": 2542
+      "number_of_documents": 2540
     }
   ]
 }
