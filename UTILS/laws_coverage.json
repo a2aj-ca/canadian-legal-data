@@ -29,7 +29,7 @@
       "description_en": "Ontario Regulations",
       "description_fr": "Règlements de l'Ontario",
       "earliest_document_date": "1990-12-31",
-      "latest_document_date": "2026-10-02",
+      "latest_document_date": "2026-10-06",
       "number_of_documents": 2217
     },
     {
@@ -38,7 +38,7 @@
       "description_fr": "Législation de la Colombie-Britannique",
       "earliest_document_date": "1924-12-19",
       "latest_document_date": "2026-05-28",
-      "number_of_documents": 574
+      "number_of_documents": 573
     },
     {
       "dataset": "REGULATIONS-BC",
@@ -46,14 +46,14 @@
       "description_fr": "Règlements de la Colombie-Britannique",
       "earliest_document_date": "1968-01-01",
       "latest_document_date": "2026-09-08",
-      "number_of_documents": 1473
+      "number_of_documents": 1475
     },
     {
       "dataset": "LEGISLATION-AB",
       "description_en": "Alberta Legislation",
       "description_fr": "Législation de l'Alberta",
       "earliest_document_date": "2002-01-01",
-      "latest_document_date": "2026-07-31",
+      "latest_document_date": "2026-09-17",
       "number_of_documents": 442
     },
     {
@@ -62,15 +62,15 @@
       "description_fr": "Règlements de l'Alberta",
       "earliest_document_date": "1969-02-11",
       "latest_document_date": "2026-10-01",
-      "number_of_documents": 923
+      "number_of_documents": 925
     },
     {
       "dataset": "LEGISLATION-NS",
       "description_en": "Nova Scotia Legislation",
       "description_fr": "Législation de la Nouvelle-Écosse",
       "earliest_document_date": "1900-01-01",
-      "latest_document_date": "2026-09-17",
-      "number_of_documents": 625
+      "latest_document_date": "2026-10-07",
+      "number_of_documents": 627
     },
     {
       "dataset": "REGULATIONS-NS",
@@ -109,7 +109,7 @@
       "description_en": "Manitoba Regulations",
       "description_fr": "Règlements du Manitoba",
       "earliest_document_date": "1972-09-27",
-      "latest_document_date": "2026-09-29",
+      "latest_document_date": "2026-10-09",
       "number_of_documents": 1091
     },
     {
@@ -118,7 +118,7 @@
       "description_fr": "Législation du Nouveau-Brunswick",
       "earliest_document_date": "1973-01-01",
       "latest_document_date": "2026-06-12",
-      "number_of_documents": 421
+      "number_of_documents": 422
     },
     {
       "dataset": "REGULATIONS-NB",
@@ -126,7 +126,7 @@
       "description_fr": "Règlements du Nouveau-Brunswick",
       "earliest_document_date": "1980-10-30",
       "latest_document_date": "2026-09-15",
-      "number_of_documents": 675
+      "number_of_documents": 676
     },
     {
       "dataset": "LEGISLATION-NL",
@@ -141,8 +141,8 @@
       "description_en": "Newfoundland and Labrador Regulations",
       "description_fr": "Règlements de Terre-Neuve-et-Labrador",
       "earliest_document_date": "1986-01-01",
-      "latest_document_date": "2026-08-27",
-      "number_of_documents": 1664
+      "latest_document_date": "2026-10-01",
+      "number_of_documents": 1665
     },
     {
       "dataset": "LEGISLATION-NT",
@@ -198,14 +198,14 @@
       "description_fr": "Législation du Québec",
       "earliest_document_date": "1992-06-23",
       "latest_document_date": "2026-09-01",
-      "number_of_documents": 539
+      "number_of_documents": 541
     },
     {
       "dataset": "REGULATIONS-QC",
       "description_en": "Quebec Regulations",
       "description_fr": "Règlements du Québec",
       "earliest_document_date": "2012-09-01",
-      "latest_document_date": "2026-09-01",
+      "latest_document_date": "2026-09-24",
       "number_of_documents": 2540
     }
   ]
