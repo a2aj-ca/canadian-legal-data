@@ -13,24 +13,24 @@
       "description_en": "Federal Court of Appeal",
       "description_fr": "Cour d'appel fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-10-07",
-      "number_of_documents": 7822
+      "latest_document_date": "2026-10-13",
+      "number_of_documents": 7823
     },
     {
       "dataset": "BCCA",
       "description_en": "British Columbia Court of Appeal",
       "description_fr": "Cour d'appel de la Colombie-Britannique",
       "earliest_document_date": "1999-01-04",
-      "latest_document_date": "2026-10-09",
-      "number_of_documents": 14730
+      "latest_document_date": "2026-10-13",
+      "number_of_documents": 14732
     },
     {
       "dataset": "ONCA",
       "description_en": "Ontario Court of Appeal",
       "description_fr": "Cour d'appel de l'Ontario",
       "earliest_document_date": "1998-06-08",
-      "latest_document_date": "2026-10-09",
-      "number_of_documents": 24204
+      "latest_document_date": "2026-10-13",
+      "number_of_documents": 24206
     },
     {
       "dataset": "NSCA",
@@ -39,6 +39,14 @@
       "earliest_document_date": "1993-01-04",
       "latest_document_date": "2026-10-05",
       "number_of_documents": 4752
+    },
+    {
+      "dataset": "NLCA",
+      "description_en": "Court of Appeal of Newfoundland and Labrador",
+      "description_fr": "Cour d'appel de Terre-Neuve-et-Labrador",
+      "earliest_document_date": "2009-02-10",
+      "latest_document_date": "2026-10-02",
+      "number_of_documents": 981
     },
     {
       "dataset": "YKCA",
@@ -53,8 +61,8 @@
       "description_en": "Federal Court",
       "description_fr": "Cour fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-10-09",
-      "number_of_documents": 36034
+      "latest_document_date": "2026-10-13",
+      "number_of_documents": 36038
     },
     {
       "dataset": "TCC",
@@ -77,8 +85,8 @@
       "description_en": "Supreme Court of British Columbia",
       "description_fr": "Cour suprême de la Colombie-Britannique",
       "earliest_document_date": "2000-01-04",
-      "latest_document_date": "2026-10-08",
-      "number_of_documents": 52473
+      "latest_document_date": "2026-10-09",
+      "number_of_documents": 52476
     },
     {
       "dataset": "NSSC",
@@ -86,7 +94,7 @@
       "description_fr": "Cour suprême de la Nouvelle-Écosse",
       "earliest_document_date": "2001-01-04",
       "latest_document_date": "2026-10-09",
-      "number_of_documents": 9279
+      "number_of_documents": 9280
     },
     {
       "dataset": "NSPC",
@@ -126,15 +134,15 @@
       "description_fr": "Conseil canadien des relations industrielles",
       "earliest_document_date": "1995-12-08",
       "latest_document_date": "2026-06-29",
-      "number_of_documents": 1196
+      "number_of_documents": 1197
     },
     {
       "dataset": "CITT",
       "description_en": "Canadian International Trade Tribunal",
       "description_fr": "Tribunal canadien du commerce extérieur",
       "earliest_document_date": "1984-11-07",
-      "latest_document_date": "2026-10-08",
-      "number_of_documents": 5364
+      "latest_document_date": "2026-10-13",
+      "number_of_documents": 5365
     },
     {
       "dataset": "CT",
@@ -150,7 +158,7 @@
       "description_fr": "Conseil des relations de travail et de l'emploi dans la fonction publique fédérale",
       "earliest_document_date": "2003-01-03",
       "latest_document_date": "2026-10-08",
-      "number_of_documents": 3476
+      "number_of_documents": 3477
     },
     {
       "dataset": "OHSTC",

@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-10-11
+Last updated: 2026-10-14
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -42,29 +42,30 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (226,426 cases)
+### Court Decisions (227,423 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-10-09 | 10,894 |
-| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-10-07 | 7,822 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-10-09 | 14,730 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-10-09 | 24,204 |
+| FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-10-13 | 7,823 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-10-13 | 14,732 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-10-13 | 24,206 |
 | NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-10-05 | 4,752 |
+| NLCA   | Court of Appeal of Newfoundland and Labrador | 2009-02-10 – 2026-10-02 | 981 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-09-25 | 281 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-10-09 | 36,034 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-10-13 | 36,038 |
 | TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-10-07 | 8,129 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-09-24 | 156 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-10-08 | 52,473 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-10-09 | 9,279 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-10-09 | 52,476 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-10-09 | 9,280 |
 | NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-09-04 | 1,625 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-10-06 | 1,679 |
 | CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-09-28 | 1,201 |
-| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-06-29 | 1,196 |
-| CITT   | Canadian International Trade Tribunal    | 1984-11-07 – 2026-10-08 | 5,364 |
+| CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-06-29 | 1,197 |
+| CITT   | Canadian International Trade Tribunal    | 1984-11-07 – 2026-10-13 | 5,365 |
 | CT     | Competition Tribunal                     | 2000-02-17 – 2026-08-26 | 645 |
-| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-10-08 | 3,476 |
+| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-10-08 | 3,477 |
 | OHSTC  | Occupational Health and Safety Tribunal Canada | 1992-01-09 – 2025-03-06 | 811 |
 | OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-09-22 | 342 |
 | PSDPT  | Public Service Disclosure Protection Tribunal | 2011-06-10 – 2025-05-21 | 29 |
