@@ -5,48 +5,48 @@
       "description_en": "Supreme Court of Canada",
       "description_fr": "Cour suprême du Canada",
       "earliest_document_date": "1877-01-15",
-      "latest_document_date": "2026-10-09",
-      "number_of_documents": 10894
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 10895
     },
     {
       "dataset": "FCA",
       "description_en": "Federal Court of Appeal",
       "description_fr": "Cour d'appel fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-10-13",
-      "number_of_documents": 7823
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 7826
     },
     {
       "dataset": "BCCA",
       "description_en": "British Columbia Court of Appeal",
       "description_fr": "Cour d'appel de la Colombie-Britannique",
       "earliest_document_date": "1999-01-04",
-      "latest_document_date": "2026-10-13",
-      "number_of_documents": 14732
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 14739
     },
     {
       "dataset": "ONCA",
       "description_en": "Ontario Court of Appeal",
       "description_fr": "Cour d'appel de l'Ontario",
       "earliest_document_date": "1998-06-08",
-      "latest_document_date": "2026-10-13",
-      "number_of_documents": 24206
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 24212
     },
     {
       "dataset": "NSCA",
       "description_en": "Nova Scotia Court of Appeal",
       "description_fr": "Cour d'appel de la Nouvelle-Écosse",
       "earliest_document_date": "1993-01-04",
-      "latest_document_date": "2026-10-05",
-      "number_of_documents": 4752
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 4756
     },
     {
       "dataset": "NLCA",
       "description_en": "Court of Appeal of Newfoundland and Labrador",
       "description_fr": "Cour d'appel de Terre-Neuve-et-Labrador",
       "earliest_document_date": "2009-02-10",
-      "latest_document_date": "2026-10-02",
-      "number_of_documents": 981
+      "latest_document_date": "2026-10-14",
+      "number_of_documents": 983
     },
     {
       "dataset": "YKCA",
@@ -61,16 +61,16 @@
       "description_en": "Federal Court",
       "description_fr": "Cour fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-10-13",
-      "number_of_documents": 36038
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 36053
     },
     {
       "dataset": "TCC",
       "description_en": "Tax Court of Canada",
       "description_fr": "Cour canadienne de l'impôt",
       "earliest_document_date": "2003-01-21",
-      "latest_document_date": "2026-10-07",
-      "number_of_documents": 8129
+      "latest_document_date": "2026-10-15",
+      "number_of_documents": 8130
     },
     {
       "dataset": "CMAC",
@@ -85,16 +85,16 @@
       "description_en": "Supreme Court of British Columbia",
       "description_fr": "Cour suprême de la Colombie-Britannique",
       "earliest_document_date": "2000-01-04",
-      "latest_document_date": "2026-10-09",
-      "number_of_documents": 52476
+      "latest_document_date": "2026-10-15",
+      "number_of_documents": 52494
     },
     {
       "dataset": "NSSC",
       "description_en": "Nova Scotia Supreme Court",
       "description_fr": "Cour suprême de la Nouvelle-Écosse",
       "earliest_document_date": "2001-01-04",
-      "latest_document_date": "2026-10-09",
-      "number_of_documents": 9280
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 9283
     },
     {
       "dataset": "NSPC",
@@ -118,15 +118,15 @@
       "description_fr": "Cour des petites créances de la Nouvelle-Écosse",
       "earliest_document_date": "2001-08-30",
       "latest_document_date": "2026-10-06",
-      "number_of_documents": 1679
+      "number_of_documents": 1680
     },
     {
       "dataset": "CHRT",
       "description_en": "Canadian Human Rights Tribunal",
       "description_fr": "Tribunal canadien des droits de la personne",
       "earliest_document_date": "2003-01-10",
-      "latest_document_date": "2026-09-28",
-      "number_of_documents": 1201
+      "latest_document_date": "2026-10-09",
+      "number_of_documents": 1204
     },
     {
       "dataset": "CIRB",
@@ -134,15 +134,15 @@
       "description_fr": "Conseil canadien des relations industrielles",
       "earliest_document_date": "1995-12-08",
       "latest_document_date": "2026-06-29",
-      "number_of_documents": 1197
+      "number_of_documents": 1199
     },
     {
       "dataset": "CITT",
       "description_en": "Canadian International Trade Tribunal",
       "description_fr": "Tribunal canadien du commerce extérieur",
       "earliest_document_date": "1984-11-07",
-      "latest_document_date": "2026-10-13",
-      "number_of_documents": 5365
+      "latest_document_date": "2026-10-16",
+      "number_of_documents": 5368
     },
     {
       "dataset": "CT",
@@ -158,7 +158,7 @@
       "description_fr": "Conseil des relations de travail et de l'emploi dans la fonction publique fédérale",
       "earliest_document_date": "2003-01-03",
       "latest_document_date": "2026-10-08",
-      "number_of_documents": 3477
+      "number_of_documents": 3480
     },
     {
       "dataset": "OHSTC",
@@ -181,8 +181,8 @@
       "description_en": "Public Service Disclosure Protection Tribunal",
       "description_fr": "Tribunal de la protection des fonctionnaires divulgateurs",
       "earliest_document_date": "2011-06-10",
-      "latest_document_date": "2025-05-21",
-      "number_of_documents": 29
+      "latest_document_date": "2026-10-29",
+      "number_of_documents": 32
     },
     {
       "dataset": "RAD",
@@ -214,7 +214,7 @@
       "description_fr": "Tribunal de la sécurité sociale",
       "earliest_document_date": "2013-03-08",
       "latest_document_date": "2026-10-16",
-      "number_of_documents": 17992
+      "number_of_documents": 18005
     },
     {
       "dataset": "TATC",
@@ -229,8 +229,8 @@
       "description_en": "Canada Agricultural Review Tribunal",
       "description_fr": "Commission de révision agricole du Canada",
       "earliest_document_date": "2010-01-15",
-      "latest_document_date": "2026-09-21",
-      "number_of_documents": 533
+      "latest_document_date": "2026-10-14",
+      "number_of_documents": 535
     },
     {
       "dataset": "SCT",
