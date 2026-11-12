@@ -1,6 +1,6 @@
 # A2AJ Canadian Legal Data
 
-Last updated: 2026-11-08
+Last updated: 2026-11-12
 
 Maintainer: [Access to Algorithmic Justice (A2AJ)](https://a2aj.ca)
 
@@ -42,31 +42,31 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (231,813 cases)
+### Court Decisions (291,828 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
 | SCC    | Supreme Court of Canada                  | 1877-01-15 – 2026-11-06 | 10,899 |
 | FCA    | Federal Court of Appeal                  | 2001-02-01 – 2026-11-05 | 7,837 |
-| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-11-05 | 14,771 |
-| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-11-06 | 24,276 |
-| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-11-06 | 4,759 |
+| BCCA   | British Columbia Court of Appeal         | 1999-01-04 – 2026-11-09 | 14,774 |
+| ONCA   | Ontario Court of Appeal                  | 1998-06-08 – 2026-11-10 | 24,287 |
+| NSCA   | Nova Scotia Court of Appeal              | 1993-01-04 – 2026-11-10 | 4,760 |
 | NLCA   | Court of Appeal of Newfoundland and Labrador | 2009-02-10 – 2026-11-05 | 985 |
 | YKCA   | Yukon Court of Appeal                    | 2000-05-15 – 2026-10-09 | 282 |
-| FC     | Federal Court                            | 2001-02-01 – 2026-11-06 | 36,132 |
-| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-11-05 | 8,146 |
+| FC     | Federal Court                            | 2001-02-01 – 2026-11-10 | 36,141 |
+| TCC    | Tax Court of Canada                      | 2003-01-21 – 2026-11-09 | 8,149 |
 | CMAC   | Court Martial Appeal Court               | 2001-01-19 – 2026-10-29 | 157 |
-| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-11-05 | 52,598 |
-| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-10-30 | 9,310 |
+| BCSC   | Supreme Court of British Columbia        | 2000-01-04 – 2026-11-06 | 52,606 |
+| NSSC   | Nova Scotia Supreme Court                | 2001-01-04 – 2026-11-06 | 9,315 |
 | NSPC   | Nova Scotia Provincial Court             | 2001-01-15 – 2026-09-16 | 1,626 |
 | NSFC   | Nova Scotia Family Court                 | 2001-02-02 – 2023-11-06 | 323 |
 | NSSM   | Nova Scotia Small Claims Court           | 2001-08-30 – 2026-10-06 | 1,680 |
 | CART   | Canada Agricultural Review Tribunal      | 2010-01-15 – 2026-10-14 | 535 |
 | CHRT   | Canadian Human Rights Tribunal           | 2003-01-10 – 2026-10-19 | 1,218 |
 | CIRB   | Canada Industrial Relations Board        | 1995-12-08 – 2026-09-03 | 1,204 |
-| CITT   | Canadian International Trade Tribunal    | 1984-11-07 – 2026-10-30 | 5,373 |
+| CITT   | Canadian International Trade Tribunal    | 1984-11-07 – 2026-11-10 | 5,376 |
 | CT     | Competition Tribunal                     | 2000-02-17 – 2026-08-26 | 645 |
-| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-10-08 | 3,491 |
+| FPSLREB | Federal Public Sector Labour Relations and Employment Board | 2003-01-03 – 2026-10-08 | 3,494 |
 | OHSTC  | Occupational Health and Safety Tribunal Canada | 1992-01-09 – 2025-03-06 | 811 |
 | OIC    | Information Commissioner of Canada       | 2019-08-26 – 2026-09-25 | 347 |
 | PSDPT  | Public Service Disclosure Protection Tribunal | 2011-06-10 – 2026-10-06 | 33 |
@@ -74,9 +74,27 @@ below for details.
 | RPD    | Refugee Protection Division (IRB)        | 2002-07-16 – 2020-12-14 | 6,729 |
 | RLLR   | Refugee Law Lab Reporter (RPD, IRB)      | 2019-01-07 – 2024-12-18 | 1,044 |
 | SCT    | Specific Claims Tribunal Canada          | 2012-07-04 – 2025-07-25 | 44 |
-| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-10-21 | 18,053 |
+| SST    | Social Security Tribunal                 | 2013-03-08 – 2026-10-28 | 18,081 |
 | TATC   | Transportation Appeal Tribunal of Canada | 2007-01-15 – 2026-08-12 | 542 |
 | TMOB   | Trademarks Opposition Board              | 2010-01-04 – 2026-09-16 | 3,747 |
+| ONACRB | Animal Care Review Board (Ontario)       | 2026-04-11 – 2026-11-09 | 26 |
+| ONARB  | Assessment Review Board (Ontario)        | 2025-07-30 – 2026-10-30 | 43 |
+| ONCFSRB | Child and Family Services Review Board (Ontario) | 2026-06-01 – 2026-09-23 | 52 |
+| ONCRB  | Custody Review Board (Ontario)           | 2026-02-03 – 2026-09-28 | 48 |
+| ONFSC  | Fire Safety Commission (Ontario)         | 2026-06-24 – 2026-10-26 | 8 |
+| ONHRTO | Human Rights Tribunal of Ontario         | 2026-06-06 – 2026-11-06 | 724 |
+| ONLAT  | Licence Appeal Tribunal (Ontario)        | 2026-05-11 – 2026-11-05 | 678 |
+| ONLTB  | Landlord and Tenant Board (Ontario)      | 2025-01-08 – 2026-08-04 | 56,186 |
+| ONSBT  | Social Benefits Tribunal (Ontario)       | 2026-04-16 – 2026-08-25 | 1,992 |
+| ONLSTH | Law Society Tribunal, Hearing Division (Ontario) | 2025-06-20 – 2026-11-06 | 126 |
+| ONLSTA | Law Society Tribunal, Appeal Division (Ontario) | 2026-04-09 – 2026-11-03 | 22 |
+| ONASLPDT | Ontario Audiologists and Speech-Language Pathologists Discipline Tribunal | 2026-06-03 – 2026-06-03 | 3 |
+| ONCPDT | Ontario Chiropodists and Podiatrists Discipline Tribunal | 2026-04-23 – 2026-08-07 | 4 |
+| ONDDT  | Ontario Dietitians Discipline Tribunal   | 2026-10-15 – 2026-10-15 | 1 |
+| ONMRITDT | Ontario Medical Radiation and Imaging Technologists Discipline Tribunal | 2026-04-13 – 2026-10-05 | 2 |
+| ONPDT  | Ontario Physiotherapists Discipline Tribunal | 2026-05-22 – 2026-10-21 | 4 |
+| ONPSDT | Ontario Physicians and Surgeons Discipline Tribunal | 2025-11-27 – 2026-11-06 | 18 |
+| ONRPDT | Ontario Registered Psychotherapists Discipline Tribunal | 2026-06-19 – 2026-09-14 | 4 |
 
 ### Legislation & Regulations (26,411 documents)
 
