@@ -42,7 +42,7 @@ below for details.
 
 ## Dataset Coverage
 
-### Court Decisions (291,927 cases)
+### Court Decisions (293,748 cases)
 
 | Code   | Court / Tribunal                         | Coverage Period            | Cases   |
 |--------|------------------------------------------|----------------------------|---------|
@@ -86,8 +86,8 @@ below for details.
 | ONLAT  | Licence Appeal Tribunal (Ontario)        | 2026-05-11 – 2026-11-12 | 714 |
 | ONLTB  | Landlord and Tenant Board (Ontario)      | 2025-01-08 – 2026-08-04 | 56,186 |
 | ONSBT  | Social Benefits Tribunal (Ontario)       | 2026-04-16 – 2026-08-25 | 1,992 |
-| ONLSTH | Law Society Tribunal, Hearing Division (Ontario) | 2025-06-20 – 2026-11-06 | 126 |
-| ONLSTA | Law Society Tribunal, Appeal Division (Ontario) | 2026-04-09 – 2026-11-03 | 22 |
+| ONLSTH | Law Society Tribunal, Hearing Division (Ontario) | 2016-07-25 – 2026-11-06 | 1,721 |
+| ONLSTA | Law Society Tribunal, Appeal Division (Ontario) | 2016-07-26 – 2026-11-03 | 248 |
 | ONASLPDT | Ontario Audiologists and Speech-Language Pathologists Discipline Tribunal | 2026-06-03 – 2026-06-03 | 3 |
 | ONCPDT | Ontario Chiropodists and Podiatrists Discipline Tribunal | 2026-04-23 – 2026-08-07 | 4 |
 | ONDDT  | Ontario Dietitians Discipline Tribunal   | 2026-10-15 – 2026-10-15 | 1 |

@@ -324,17 +324,17 @@
       "dataset": "ONLSTH",
       "description_en": "Law Society Tribunal, Hearing Division (Ontario)",
       "description_fr": "Tribunal du Barreau, Section de première instance (Ontario)",
-      "earliest_document_date": "2025-06-20",
+      "earliest_document_date": "2016-07-25",
       "latest_document_date": "2026-11-06",
-      "number_of_documents": 126
+      "number_of_documents": 1721
     },
     {
       "dataset": "ONLSTA",
       "description_en": "Law Society Tribunal, Appeal Division (Ontario)",
       "description_fr": "Tribunal du Barreau, Section d’appel (Ontario)",
-      "earliest_document_date": "2026-04-09",
+      "earliest_document_date": "2016-07-26",
       "latest_document_date": "2026-11-03",
-      "number_of_documents": 22
+      "number_of_documents": 248
     },
     {
       "dataset": "ONASLPDT",
