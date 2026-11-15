@@ -5,40 +5,40 @@
       "description_en": "Supreme Court of Canada",
       "description_fr": "Cour suprême du Canada",
       "earliest_document_date": "1877-01-15",
-      "latest_document_date": "2026-11-06",
-      "number_of_documents": 10899
+      "latest_document_date": "2026-11-10",
+      "number_of_documents": 10900
     },
     {
       "dataset": "FCA",
       "description_en": "Federal Court of Appeal",
       "description_fr": "Cour d'appel fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-11-05",
-      "number_of_documents": 7837
+      "latest_document_date": "2026-11-13",
+      "number_of_documents": 7838
     },
     {
       "dataset": "BCCA",
       "description_en": "British Columbia Court of Appeal",
       "description_fr": "Cour d'appel de la Colombie-Britannique",
       "earliest_document_date": "1999-01-04",
-      "latest_document_date": "2026-11-09",
-      "number_of_documents": 14774
+      "latest_document_date": "2026-11-13",
+      "number_of_documents": 14776
     },
     {
       "dataset": "ONCA",
       "description_en": "Ontario Court of Appeal",
       "description_fr": "Cour d'appel de l'Ontario",
       "earliest_document_date": "1998-06-08",
-      "latest_document_date": "2026-11-10",
-      "number_of_documents": 24287
+      "latest_document_date": "2026-11-13",
+      "number_of_documents": 24298
     },
     {
       "dataset": "NSCA",
       "description_en": "Nova Scotia Court of Appeal",
       "description_fr": "Cour d'appel de la Nouvelle-Écosse",
       "earliest_document_date": "1993-01-04",
-      "latest_document_date": "2026-11-10",
-      "number_of_documents": 4760
+      "latest_document_date": "2026-11-12",
+      "number_of_documents": 4762
     },
     {
       "dataset": "NLCA",
@@ -61,8 +61,8 @@
       "description_en": "Federal Court",
       "description_fr": "Cour fédérale",
       "earliest_document_date": "2001-02-01",
-      "latest_document_date": "2026-11-10",
-      "number_of_documents": 36141
+      "latest_document_date": "2026-11-13",
+      "number_of_documents": 36156
     },
     {
       "dataset": "TCC",
@@ -85,16 +85,16 @@
       "description_en": "Supreme Court of British Columbia",
       "description_fr": "Cour suprême de la Colombie-Britannique",
       "earliest_document_date": "2000-01-04",
-      "latest_document_date": "2026-11-06",
-      "number_of_documents": 52606
+      "latest_document_date": "2026-11-12",
+      "number_of_documents": 52620
     },
     {
       "dataset": "NSSC",
       "description_en": "Nova Scotia Supreme Court",
       "description_fr": "Cour suprême de la Nouvelle-Écosse",
       "earliest_document_date": "2001-01-04",
-      "latest_document_date": "2026-11-06",
-      "number_of_documents": 9315
+      "latest_document_date": "2026-11-09",
+      "number_of_documents": 9317
     },
     {
       "dataset": "NSPC",
@@ -133,8 +133,8 @@
       "description_en": "Canadian Human Rights Tribunal",
       "description_fr": "Tribunal canadien des droits de la personne",
       "earliest_document_date": "2003-01-10",
-      "latest_document_date": "2026-10-19",
-      "number_of_documents": 1218
+      "latest_document_date": "2026-11-03",
+      "number_of_documents": 1221
     },
     {
       "dataset": "CIRB",
@@ -142,7 +142,7 @@
       "description_fr": "Conseil canadien des relations industrielles",
       "earliest_document_date": "1995-12-08",
       "latest_document_date": "2026-09-03",
-      "number_of_documents": 1204
+      "number_of_documents": 1205
     },
     {
       "dataset": "CITT",
@@ -166,7 +166,7 @@
       "description_fr": "Conseil des relations de travail et de l'emploi dans la fonction publique fédérale",
       "earliest_document_date": "2003-01-03",
       "latest_document_date": "2026-10-08",
-      "number_of_documents": 3494
+      "number_of_documents": 3495
     },
     {
       "dataset": "OHSTC",
@@ -181,8 +181,8 @@
       "description_en": "Information Commissioner of Canada",
       "description_fr": "Commissaire à l'information du Canada",
       "earliest_document_date": "2019-08-26",
-      "latest_document_date": "2026-09-25",
-      "number_of_documents": 347
+      "latest_document_date": "2026-10-09",
+      "number_of_documents": 348
     },
     {
       "dataset": "PSDPT",
@@ -229,8 +229,8 @@
       "description_en": "Social Security Tribunal",
       "description_fr": "Tribunal de la sécurité sociale",
       "earliest_document_date": "2013-03-08",
-      "latest_document_date": "2026-10-28",
-      "number_of_documents": 18081
+      "latest_document_date": "2026-11-04",
+      "number_of_documents": 18089
     },
     {
       "dataset": "TATC",
@@ -253,8 +253,8 @@
       "description_en": "Animal Care Review Board (Ontario)",
       "description_fr": "Commission d’étude des soins aux animaux (Ontario)",
       "earliest_document_date": "2026-04-11",
-      "latest_document_date": "2026-11-09",
-      "number_of_documents": 26
+      "latest_document_date": "2026-11-12",
+      "number_of_documents": 27
     },
     {
       "dataset": "ONARB",
@@ -301,8 +301,8 @@
       "description_en": "Licence Appeal Tribunal (Ontario)",
       "description_fr": "Tribunal d’appel en matière de permis (Ontario)",
       "earliest_document_date": "2026-05-11",
-      "latest_document_date": "2026-11-05",
-      "number_of_documents": 678
+      "latest_document_date": "2026-11-12",
+      "number_of_documents": 714
     },
     {
       "dataset": "ONLTB",
